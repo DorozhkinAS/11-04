@@ -102,10 +102,12 @@ $ cat /etc/hosts
 Так как использовал docker compouse не пришлось пробрасывать файл hosts.
 
 Скриншот что обе ноды в кластере
-![nodes](/img/5.jpg)
+
+<img width="1233" height="784" alt="image" src="https://github.com/user-attachments/assets/6a0b367c-88e3-4f38-a245-3ff92aed59bc" />
 
 Скриншот, где видно что применена политка ha-all
-![ha](/img/11.jpg)
+
+<img width="1188" height="521" alt="image" src="https://github.com/user-attachments/assets/c1d50d48-191f-493f-bd6b-328fe5e12ab8" />
 
 Вывод команды `rabbitmqctl cluster_status` выполнненой в двух контейнерах
 
