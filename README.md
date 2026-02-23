@@ -113,9 +113,8 @@ $ cat /etc/hosts
 
 <img width="1322" height="1205" alt="image" src="https://github.com/user-attachments/assets/9d57e243-d61b-48c7-947c-34787822224c" />
 
+<img width="1311" height="1251" alt="image" src="https://github.com/user-attachments/assets/f0827c74-5e8b-47c8-8b1f-a4eddca26c13" />
 
-![1](/img/6.jpg)
-![2](/img/7.jpg)
 
 Был запущен скрипт producer.py на разных нодах, вывод комнды `rabbitmqadmin get queue='hello'` в разных контейнерах
 
