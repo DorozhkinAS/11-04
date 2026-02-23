@@ -57,16 +57,17 @@
 
 Вид очереди в веб интерфейсе 
 
+<img width="1184" height="490" alt="image" src="https://github.com/user-attachments/assets/08d870a1-9e12-40bb-9a0b-bfb2a44ac798" />
 
-![area](/img/2.jpg)
-![consumer](/img/3.jpg)
-
+<img width="1245" height="990" alt="image" src="https://github.com/user-attachments/assets/58e3feda-aa64-4e8b-a2c6-bdc019e03d16" />
 
 Вывод скрипа consumer.py
 
-![consumer](/img/4.jpg)
+<img width="599" height="189" alt="image" src="https://github.com/user-attachments/assets/271349af-5e1f-47af-b349-8ae79db0168a" />
+
 
 ---
+
 
 ### Задание 3. Подготовка HA кластера
 Используя Vagrant или VirtualBox, создайте вторую виртуальную машину и установите RabbitMQ. Добавьте в файл hosts название и IP-адрес каждой машины, чтобы машины могли видеть друг друга по имени.
