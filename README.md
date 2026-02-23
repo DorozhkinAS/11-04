@@ -111,7 +111,7 @@ $ cat /etc/hosts
 
 Вывод команды `rabbitmqctl cluster_status` выполнненой в двух контейнерах
 
-<img width="1322" height="1205" alt="image" src="https://github.com/user-attachments/assets/9d57e243-d61b-48c7-947c-34787822224c" />
+<img width="1322" height="1205" alt="image" src="https://github.com/user-attachments/assets/6e996294-4790-42c3-9a29-d3a3399eb8b6" />
 
 <img width="1311" height="1251" alt="image" src="https://github.com/user-attachments/assets/f0827c74-5e8b-47c8-8b1f-a4eddca26c13" />
 
