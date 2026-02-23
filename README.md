@@ -118,15 +118,19 @@ $ cat /etc/hosts
 
 Был запущен скрипт producer.py на разных нодах, вывод комнды `rabbitmqadmin get queue='hello'` в разных контейнерах
 
-![hello1](/img/8.jpg)
+<img width="1327" height="419" alt="image" src="https://github.com/user-attachments/assets/a2afd271-a3de-4f4f-b2d7-c5967d5e2490" />
 
 ---
 
 Откючение первой ноды 
-![off](/img/10.jpg)
+
+<img width="1321" height="1008" alt="image" src="https://github.com/user-attachments/assets/40dbcd22-8569-4a30-be54-8e3ba5460546" />
+
 
 Выполнение скрипта consumer.py для второй ноды
-![2node](/img/9.jpg)
+
+<img width="975" height="368" alt="image" src="https://github.com/user-attachments/assets/4b33687b-ce97-4ae9-aa3b-666f08cc669c" />
+
 
 `Приведите ответ в свободной форме........`
 
