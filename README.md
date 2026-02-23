@@ -32,7 +32,8 @@
 ### Решение 1
 
 Т.к. в РФ не доступен Vagrant, то реализация домашнего задания была выполнена через  docker.
-![init](/img/1.jpg)
+
+<img width="1322" height="732" alt="image" src="https://github.com/user-attachments/assets/c5db566f-b4b5-4372-8625-6e662eaa4080" />
 
 ---
 
@@ -55,8 +56,12 @@
 Так как делал все в контейнерах, pip пробросил в compouse файле. 
 
 Вид очереди в веб интерфейсе 
+
+
 ![area](/img/2.jpg)
 ![consumer](/img/3.jpg)
+
+
 Вывод скрипа consumer.py
 
 ![consumer](/img/4.jpg)
